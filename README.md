@@ -1,10 +1,5 @@
 # house-price-prediction-using-data-analytics-algorithms
 House Price Prediction System Using Data Analytics Algorithms
-Jupyter Notebook Python Badge Kaggle Badge pandas Badge scikit-learn Badge NumPy Badge Microsoft Excel Badge
-
-For inquiries or feedback, please contact:
-
-INSTAGRAM
 
 1. Introduction
 The objective of this project is to develop a predictive model that can accurately forecast house prices based on various features. This involves several stages including data collection, preprocessing, feature engineering, model selection, and evaluation. The final goal is to create a model that helps in estimating house prices effectively for real estate professionals, buyers, and sellers.

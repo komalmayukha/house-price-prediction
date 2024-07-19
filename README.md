@@ -1,4 +1,4 @@
-# house-price-prediction
+# house-price-prediction-using-data-analytics-algorithms
 House Price Prediction System Using Data Analytics Algorithms
 Jupyter Notebook Python Badge Kaggle Badge pandas Badge scikit-learn Badge NumPy Badge Microsoft Excel Badge
 
